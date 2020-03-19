@@ -21,7 +21,7 @@ logo = ("""
 										|  _| | |_) | |_) |__) |
 										|_|   |____/|____/____/ 
 						
-									Py : The_Pharaoh   github : https://github.com/TNFT
+											github : https://github.com/TNFT
 """)
 print Back.BLACK + Fore.YELLOW + logo 
 proxyr = raw_input("DoYouWantToUseProxy [y/n] : ")
